@@ -1,8 +1,16 @@
 ﻿<Properties StartupConfiguration="{FA7E9101-FDC1-4A7E-8835-A88366CCAC27}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SalesWebMvc/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SalesWebMvc/Views/Departments/Index.cshtml">
     <Files>
+      <File FileName="SalesWebMvc/Startup.cs" Line="1" Column="1" />
+      <File FileName="SalesWebMvc/Controllers/HomeController.cs" Line="39" Column="1" />
+      <File FileName="SalesWebMvc/Views/Home/Privacy.cshtml" Line="3" Column="2" />
+      <File FileName="SalesWebMvc/Models/ViewModels/ErrorViewModel.cs" Line="3" Column="11" />
       <File FileName="SalesWebMvc/Views/Home/Index.cshtml" Line="1" Column="1" />
       <File FileName="SalesWebMvc/Program.cs" Line="1" Column="1" />
+      <File FileName="SalesWebMvc/Views/Shared/Error.cshtml" Line="3" Column="33" />
+      <File FileName="SalesWebMvc/Models/Department.cs" Line="7" Column="9" />
+      <File FileName="SalesWebMvc/Controllers/DepartmentsController.cs" Line="12" Column="29" />
+      <File FileName="SalesWebMvc/Views/Departments/Index.cshtml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,16 +21,24 @@
               <Node name="Models" expanded="True" />
               <Node name="Properties" expanded="True" />
               <Node name="Views" expanded="True">
+                <Node name="Departments" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
                 <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
               </Node>
-              <Node name="Program.cs" selected="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
+                <Node name="lib" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.SalesWebMvc FirstBuild="True" PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.SalesWebMvc PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
